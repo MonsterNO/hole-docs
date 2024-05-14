@@ -1,0 +1,17 @@
+{
+	"name": "hole-docs",
+	"version": "1.0.0",
+	"description": "Hole文档",
+	"main": "index.js",
+	"author": "lingping",
+	"scripts": {
+		"docs:dev": "nvm use 18 && vuepress dev docs",
+		"docs:build": "nvm use 18 && vuepress build docs"
+	},
+	"devDependencies": {
+		"@vuepress/bundler-vite": "2.0.0-rc.9",
+		"vue": "^3.4.27",
+		"vuepress": "2.0.0-rc.9",
+		"vuepress-theme-plume": "1.0.0-rc.56"
+	}
+}
