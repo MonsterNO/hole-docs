@@ -13,5 +13,5 @@ config:
         -
           theme: brand
           text: 快速开始
-          link: /article/ciy1fn03/
+          link: /blog/
 ---
