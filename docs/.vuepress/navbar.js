@@ -1,10 +1,10 @@
 const navbar = [
-  // {
-  //   text: "旅游指南",
-  //   icon: "material-symbols:travel-luggage-and-bags-rounded",
-  //   link: "/notes/travel/潮州.md",
-  //   activeMatch: "^/travel/",
-  // },
+  {
+    text: "技术文章",
+    icon: 'material-symbols:article-outline',
+    link: "/blog/",
+    activeMatch: '^/(blog|article)/',
+  },
   {
     text:'资源导航',
     icon:'material-symbols:web-asset',

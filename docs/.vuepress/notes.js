@@ -1,22 +1,22 @@
-import { definePlumeNotesConfig } from 'vuepress-theme-plume'
+import { definePlumeNotesConfig } from "vuepress-theme-plume";
 
 const notes = definePlumeNotesConfig({
-  // dir: 'notes',
-  // link: '/',
-  // notes:[
+  // dir: "notes",
+  // link: "/",
+  // notes: [
   //   {
-  //     dir:'travel',
-  //     link:'/travel/',
-  //     sidebar:[
+  //     dir: "article",
+  //     link: "/article/",
+  //     sidebar: [
   //       {
-  //         text: '旅游指南',
+  //         text: "文章列表",
   //         collapsed: false,
-  //         icon: 'material-symbols:travel-luggage-and-bags-rounded',
-  //         items: ['潮州'],
-  //       }
-  //     ]
-  //   }
-  // ]
-})
+  //         icon: "material-symbols:travel-luggage-and-bags-rounded",
+  //         items: [],
+  //       },
+  //     ],
+  //   },
+  // ],
+});
 
-export default notes
+export default notes;
