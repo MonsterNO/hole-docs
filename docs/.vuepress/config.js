@@ -1,8 +1,8 @@
 import { viteBundler } from "@vuepress/bundler-vite";
 import { plumeTheme } from "vuepress-theme-plume";
 import { defineUserConfig } from "vuepress";
-import navbar from "./navbar";
-import notes from "./notes";
+import navbar from "./config/navbar";
+import notes from "./config/notes";
 
 export default defineUserConfig({
   title: "书洞笔记",

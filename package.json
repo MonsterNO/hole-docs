@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"author": "lingping",
 	"scripts": {
-		"docs:dev": "nvm use 18 && vuepress dev docs",
+		"docs:dev": "nvm use 18 && vuepress dev docs --open",
 		"docs:build": "nvm use 18 && vuepress build docs",
 		"docs:deploy": "vuepress build docs"
 	},
