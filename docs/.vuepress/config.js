@@ -6,7 +6,7 @@ import notes from "./config/notes";
 
 export default defineUserConfig({
   title: "书洞笔记",
-  description: "一个丰富的资源整合知识库网站",
+  description: "书洞笔记，工具库，博客，前端知识库，一个丰富的资源整合知识库网站",
   dest: "dist",
   lang: "zh-CN",
   bundler: viteBundler(),
