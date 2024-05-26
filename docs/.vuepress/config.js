@@ -23,6 +23,9 @@ export default defineUserConfig({
       markdownPower: {
         bilibili: true,
       },
+      baiduTongji: {
+        key: "016c79e513a646032d1fba44294b65a2",
+      },
     },
     avatar: {
       url: "/avatar.jpg",
