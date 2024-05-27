@@ -9,6 +9,11 @@ const navbar = [
     text:'资源导航',
     icon:'material-symbols:web-asset',
     link:'/nav/',
+  },
+  {
+    text:'旅游攻略',
+    icon:'material-symbols:travel-luggage-and-bags-rounded',
+    link:'/travel/wjgs27tp/',
   }
 ];
 
