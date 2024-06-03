@@ -14,6 +14,11 @@ const navbar = [
     text:'旅游攻略',
     icon:'material-symbols:travel-luggage-and-bags-rounded',
     link:'/travel/wjgs27tp/',
+  },
+  {
+    text:'菜谱',
+    icon:'material-symbols:travel-luggage-and-bags-rounded',
+    link:'/cook/',
   }
 ];
 
