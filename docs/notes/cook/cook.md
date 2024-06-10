@@ -38,5 +38,18 @@ permalink: /cook/
 
 ![佛手瓜2](./images/佛手瓜2.jpg)
 
+## 红烧肉
+
+![红烧肉](./images/红烧肉1.jpg)
+
+![红烧肉](./images/红烧肉2.jpg)
+
+## 手撕鸡
+
+![手撕鸡](./images/手撕鸡1.jpg)
+
+![手撕鸡](./images/手撕鸡2.jpg)
+
+
 
 
