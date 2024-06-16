@@ -50,6 +50,12 @@ permalink: /cook/
 
 ![手撕鸡](./images/手撕鸡2.jpg)
 
+## 竹笋炒腊肉
+
+![竹笋炒腊肉](./images/竹笋炒腊肉1.jpg)
+
+![竹笋炒腊肉](./images/竹笋炒腊肉2.jpg)
+
 
 
 
