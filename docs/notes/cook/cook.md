@@ -72,5 +72,17 @@ permalink: /cook/
 
 ![土豆炖鸭肉](./images/土豆炖鸭肉2.jpg)
 
+## 香菇鸡块
+
+![香菇鸡块](./images/香菇鸡块1.jpg)
+
+![香菇鸡块](./images/香菇鸡块2.jpg)
+
+## 蒜蓉鸡翅
+
+![蒜蓉鸡翅](./images/蒜蓉鸡翅1.jpg)
+
+![蒜蓉鸡翅](./images/蒜蓉鸡翅2.jpg)
+
 
 
