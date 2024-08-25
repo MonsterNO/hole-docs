@@ -84,5 +84,11 @@ permalink: /cook/
 
 ![蒜蓉鸡翅](./images/蒜蓉鸡翅2.jpg)
 
+## 毛豆炒鸡丁
+
+![毛豆炒鸡丁](./images/毛豆炒鸡丁1.jpg)
+
+![毛豆炒鸡丁](./images/毛豆炒鸡丁2.jpg)
+
 
 
