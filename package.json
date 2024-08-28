@@ -5,14 +5,17 @@
 	"main": "index.js",
 	"author": "lingping",
 	"scripts": {
-		"docs:dev": "nvm use 18 && vuepress dev docs --open",
-		"docs:build": "nvm use 18 && vuepress build docs",
+		"docs:dev": "vuepress dev docs --open",
+		"docs:build": "vuepress build docs",
 		"docs:deploy": "vuepress build docs"
 	},
 	"devDependencies": {
-		"@vuepress/bundler-vite": "2.0.0-rc.9",
+		"@vuepress/bundler-vite": "2.0.0-rc.15",
 		"vue": "^3.4.27",
-		"vuepress": "2.0.0-rc.9",
-		"vuepress-theme-plume": "1.0.0-rc.56"
+		"vuepress": "2.0.0-rc.14",
+		"vuepress-theme-plume": "1.0.0-rc.90"
+	},
+	"dependencies": {
+		"@vueuse/core": "^11.0.3"
 	}
 }

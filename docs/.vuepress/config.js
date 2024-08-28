@@ -1,12 +1,16 @@
 import { viteBundler } from "@vuepress/bundler-vite";
 import { plumeTheme } from "vuepress-theme-plume";
+import { getDirname, path } from "vuepress/utils";
 import { defineUserConfig } from "vuepress";
 import navbar from "./config/navbar";
 import notes from "./config/notes";
 
+const __dirname = getDirname(import.meta.url);
+
 export default defineUserConfig({
   title: "书洞笔记",
-  description: "书洞笔记，工具库，博客，前端知识库，一个丰富的资源整合知识库网站",
+  description:
+    "书洞笔记，工具库，博客，前端知识库，一个丰富的资源整合知识库网站",
   dest: "dist",
   lang: "zh-CN",
   bundler: viteBundler(),
@@ -57,4 +61,7 @@ export default defineUserConfig({
       { icon: "github", link: "https://github.com/MonsterNO" },
     ],
   }),
+  alias: {
+    "@theme/VPFooter.vue": path.resolve(__dirname, "./components/Footer.vue"),
+  },
 });
