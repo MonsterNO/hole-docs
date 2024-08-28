@@ -7,10 +7,6 @@ settings:
 importers:
 
   .:
-    dependencies:
-      '@vueuse/core':
-        specifier: ^11.0.3
-        version: 11.0.3(vue@3.4.38(typescript@5.5.4))
     devDependencies:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.15

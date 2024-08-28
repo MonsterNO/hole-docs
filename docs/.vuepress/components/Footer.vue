@@ -1,10 +1,5 @@
 <template>
-  <footer
-    v-if="theme.footer"
-    ref="footer"
-    class="vp-footer"
-    :class="{ 'has-sidebar': hasSidebar }"
-  >
+  <footer ref="footer" class="vp-footer" :class="{ 'has-sidebar': hasSidebar }">
     <div class="container">
       <p
         v-if="theme.footer.message"
@@ -25,7 +20,11 @@
           <img src="./images/upyun-1f2e98af.png" alt="" />
           <span>提供云存储服务</span>
         </a>
-        <a href="https://beian.miit.gov.cn/" target="_blank" style="margin-left: 10px">
+        <a
+          href="https://beian.miit.gov.cn/"
+          target="_blank"
+          style="margin-left: 10px"
+        >
           豫ICP备2021001150号-1
         </a>
       </p>
@@ -34,16 +33,17 @@
 </template>
 
 <script setup lang="ts">
-import { useCssVar } from "@vueuse/core";
 import { onMounted, ref } from "vue";
 import { useData, useSidebar } from "vuepress-theme-plume/composables";
 const { theme } = useData();
 const { hasSidebar } = useSidebar();
-const footerHeight = useCssVar("--vp-footer-height", document.body);
 const footer = ref<HTMLElement | null>(null);
 onMounted(() => {
-  if (theme.value.footer && footer.value)
-    footerHeight.value = `${footer.value.offsetHeight + 24}px`;
+  if (footer.value)
+    document.body.style.setProperty(
+      "--vp-footer-height",
+      `${footer.value.offsetHeight}px`
+    );
 });
 </script>
 
