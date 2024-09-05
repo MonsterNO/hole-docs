@@ -7,26 +7,26 @@ const navbar = [
   },
   {
     text: "组件库",
-    icon: "material-symbols:article-outline",
+    icon: "icon-park-outline:figma-component",
     link: "/lp-vue/",
   },
   {
     text: "资源导航",
-    icon: "material-symbols:web-asset",
+    icon: "iconoir:navigator",
     link: "/nav/",
   },
   {
     text: "更多",
-    icon: "mingcute:more-3-fill",
+    icon: "icon-park-outline:more-three",
     items: [
       {
         text: "旅游攻略",
-        icon: "material-symbols:travel-luggage-and-bags-rounded",
+        icon: "material-symbols:mode-of-travel",
         link: "/travel/",
       },
       {
         text: "菜谱",
-        icon: "material-symbols:travel-luggage-and-bags-rounded",
+        icon: "lucide:cooking-pot",
         link: "/cook/",
       },
     ],

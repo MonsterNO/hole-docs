@@ -1,7 +1,7 @@
 ---
 title: lp-vue
 permalink: /lp-vue/
-createTime: 2024/09/03 16:46:27
+createTime: 2024/09/05
 ---
 
 lp-vue是一个开箱即用的组件库，包含功能：组件&二次开发、指令、常用函数等，它可以快速的实现需求，希望能够帮助到你。

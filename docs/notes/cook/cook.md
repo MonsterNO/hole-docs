@@ -8,9 +8,10 @@ permalink: /cook/
 
 ## 爆炒鸡心
 
-![爆炒鸡心](./images/鸡心1.jpg)
-
-![爆炒鸡心](./images/鸡心2.jpg)
+<p align="center">
+  <img src="./images/鸡心1.jpg" width="49%">
+  <img src="./images/鸡心2.jpg" width="49%">
+</p>
 
 ## 番茄鸡蛋
 
@@ -34,33 +35,38 @@ permalink: /cook/
 
 ## 佛手瓜
 
-![佛手瓜1](./images/佛手瓜1.jpg)
-
-![佛手瓜2](./images/佛手瓜2.jpg)
+<p align="center">
+  <img src="./images/佛手瓜1.jpg" width="49%">
+  <img src="./images/佛手瓜2.jpg" width="49%">
+</p>
 
 ## 红烧肉
 
-![红烧肉](./images/红烧肉1.jpg)
-
-![红烧肉](./images/红烧肉2.jpg)
+<p align="center">
+  <img src="./images/红烧肉1.jpg" width="49%">
+  <img src="./images/红烧肉2.jpg" width="49%">
+</p>
 
 ## 手撕鸡
 
-![手撕鸡](./images/手撕鸡1.jpg)
-
-![手撕鸡](./images/手撕鸡2.jpg)
+<p align="center">
+  <img src="./images/手撕鸡1.jpg" width="49%">
+  <img src="./images/手撕鸡2.jpg" width="49%">
+</p>
 
 ## 竹笋炒腊肉
 
-![竹笋炒腊肉](./images/竹笋炒腊肉1.jpg)
-
-![竹笋炒腊肉](./images/竹笋炒腊肉2.jpg)
+<p align="center">
+  <img src="./images/竹笋炒腊肉1.jpg" width="49%">
+  <img src="./images/竹笋炒腊肉2.jpg" width="49%">
+</p>
 
 ## 蒜苔炒花甲
 
-![蒜苔炒花甲](./images/蒜苔炒花甲1.jpg)
-
-![蒜苔炒花甲](./images/蒜苔炒花甲2.jpg)
+<p align="center">
+  <img src="./images/蒜苔炒花甲1.jpg" width="49%">
+  <img src="./images/蒜苔炒花甲2.jpg" width="49%">
+</p>
 
 ## 卤味
 
@@ -68,27 +74,31 @@ permalink: /cook/
 
 ## 土豆炖鸭肉
 
-![土豆炖鸭肉](./images/土豆炖鸭肉1.jpg)
-
-![土豆炖鸭肉](./images/土豆炖鸭肉2.jpg)
+<p align="center">
+  <img src="./images/土豆炖鸭肉1.jpg" width="49%">
+  <img src="./images/土豆炖鸭肉2.jpg" width="49%">
+</p>
 
 ## 香菇鸡块
 
-![香菇鸡块](./images/香菇鸡块1.jpg)
-
-![香菇鸡块](./images/香菇鸡块2.jpg)
+<p align="center">
+  <img src="./images/香菇鸡块1.jpg" width="49%">
+  <img src="./images/香菇鸡块2.jpg" width="49%">
+</p>
 
 ## 蒜蓉鸡翅
 
-![蒜蓉鸡翅](./images/蒜蓉鸡翅1.jpg)
-
-![蒜蓉鸡翅](./images/蒜蓉鸡翅2.jpg)
+<p align="center">
+  <img src="./images/蒜蓉鸡翅1.jpg" width="49%">
+  <img src="./images/蒜蓉鸡翅2.jpg" width="49%">
+</p>
 
 ## 毛豆炒鸡丁
 
-![毛豆炒鸡丁](./images/毛豆炒鸡丁1.jpg)
-
-![毛豆炒鸡丁](./images/毛豆炒鸡丁2.jpg)
+<p align="center">
+  <img src="./images/毛豆炒鸡丁1.jpg" width="49%">
+  <img src="./images/毛豆炒鸡丁2.jpg" width="49%">
+</p>
 
 
 
