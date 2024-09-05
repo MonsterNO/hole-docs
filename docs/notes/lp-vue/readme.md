@@ -16,6 +16,15 @@ lp-vue是一个开箱即用的组件库，包含功能：组件&二次开发、�
 npm install lp-vue -S
 ```
 
+## CDN
+
+ 目前可以通过 [unpkg.com/lp-vue](https://unpkg.com/lp-vue/) 获取到最新版本的资源，在页面上引入 js文件即可开始使用。 
+
+```javascript
+<!-- 引入组件库 -->
+<script src="https://unpkg.com/lp-vue/lib/index.js"></script>
+```
+
 ## 快速上手
 
 ```javascript
